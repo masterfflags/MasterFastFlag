@@ -3,19 +3,19 @@
 🔎 Overview
 MasterFastFlag is a powerful Windows-based configuration manager designed to give users full control over internal FastFlags through a structured, safe, and fully reversible system.
 It provides:
-⚙️ Intelligent flag handling
-🔄 Toggle-based injection control
-🛡️ Crash-risk protection
-💾 Persistent configuration management
-🖥️ Clean and user-friendly interface
+- ⚙️ Intelligent flag handling
+- 🔄 Toggle-based injection control
+- 🛡️ Crash-risk protection
+- 💾 Persistent configuration management
+- 🖥️ Clean and user-friendly interface
 MasterFastFlag is built for users who want precision, flexibility, and stability when working with FastFlag configurations.
 
 ✨ Key Benefits
 🎛️ 1. Full FastFlag Control
-📂 Load, edit, and manage internal FastFlags
-🚀 Apply optimized performance flags
-⚠️ Temporarily disable risky or crash-related flags
-♻️ Restore original configurations safely
+- 📂 Load, edit, and manage internal FastFlags
+- 🚀 Apply optimized performance flags
+- ⚠️ Temporarily disable risky or crash-related flags
+- ♻️ Restore original configurations safely
 The software ensures FastFlags can be toggled without permanently altering core configurations.
 
 🔁 2. Smart Toggle Logic System
